@@ -1,4 +1,6 @@
-.idea/
 *.DS_Store
 /C/.vscode/
 .gitignore
+C/*.exe
+.gitignore
+C/1.两数之和
